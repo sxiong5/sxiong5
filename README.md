@@ -5,7 +5,7 @@ Hi there 👋, I am Shihao Xiong.
 </p>
 
 <p align="center">
-· <a href="https://drive.google.com/file/d/1oW1pggoCx79IZra_zVqiItrVg9kLBidh/view?usp=sharing">Resume</a> ·
+· <a href="https://drive.google.com/file/d/1kYZGSn7iR4f0rquP-EaB82hYL9l0yU_6/view?usp=sharing">Resume</a> ·
 <br />
 <a href="#">👨‍🎓 Candidate of MSCS</a> | <a href="#">📍 New York City, US</a>
 </p>
@@ -36,7 +36,6 @@ Hi there 👋, I am Shihao Xiong.
   <a href="https://www.linkedin.com/in/sxiong5/"><img src="https://img.icons8.com/clouds/50/000000/linkedin.png"/></a>
   <a href="https://www.instagram.com/tsxfp/"><img src="https://img.icons8.com/clouds/50/000000/instagram.png"/></a>
   <a href="#"><img src="https://img.icons8.com/clouds/50/000000/facebook.png"/></a>
-  <a href="#"><img src="https://img.icons8.com/clouds/50/000000/twitter.png"/></a>
 </p>
 
 <br />
