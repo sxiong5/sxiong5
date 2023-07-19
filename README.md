@@ -7,7 +7,7 @@ Hi there 👋, I am Shihao Xiong.
 <p align="center">
 · <a href="https://drive.google.com/file/d/1a8JgmqTozoKzVvmML_FNH3sxb3iGM95E/view?usp=sharing">Resume</a> ·
 <br />
-<a href="#">👨‍🎓 Candidate of MSCS</a> | <a href="#">📍 New York City, US</a>
+<a href="#">👨‍🎓 Master's degree of CS</a> | <a href="#">📍 New York City, US</a>
 </p>
 
 <br />
